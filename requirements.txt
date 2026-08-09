@@ -1,0 +1,29 @@
+# Core - flexible versions for Python 3.11 to 3.14 compatibility
+streamlit>=1.39.0
+pandas>=2.2.0
+numpy>=1.26.0
+scipy>=1.14.0
+plotly>=5.24.0
+
+# SQL Engine
+duckdb>=1.1.0
+
+# File Handling - optional, but keep essential
+openpyxl>=3.1.0
+XlsxWriter>=3.2.0
+
+# Reporting
+Jinja2>=3.1.0
+
+# Utils
+python-dotenv>=1.0.0
+python-dateutil>=2.9.0
+
+# Testing (optional, for local)
+pytest>=8.0.0
+# Parquet support (optional)
+pyarrow>=18.0
+
+# Optional for report export (graceful fallback if missing)
+# kaleido>=0.2.1  # for PNG export
+# reportlab>=4.0.0  # for PDF export
