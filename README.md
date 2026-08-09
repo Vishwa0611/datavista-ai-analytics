@@ -4,7 +4,7 @@ Upload any business CSV and get a complete analysis — quality check, cleaning,
 
 Built as a portfolio project for Data Analyst roles. Works with sales, marketing, HR, SaaS and sports data.
 
-**Live Demo:** https://your-username-datavista.streamlit.app (add your link after deploy)
+**Live Demo:** https://datavista-ai-analytics.streamlit.app/
 
 ---
 
@@ -125,13 +125,6 @@ git remote add origin https://github.com/YOUR_USERNAME/datavista-analytics.git
 git push -u origin main
 ```
 
-**Live link (free, like Netlify but for Streamlit):**
-1. Go to share.streamlit.io → Sign in with GitHub
-2. New app → Select your repo → File: streamlit_app.py → Deploy
-3. You get URL like `https://your-app.streamlit.app`
-
-Netlify is for static sites and won't run Streamlit. Use Streamlit Cloud instead.
-
 ---
 
 ## ⚠️ Limitations
@@ -162,9 +155,7 @@ That's why it's called **AI Analytics Workbench** — AI assists in analysis and
 
 **Project made by Ayush Vishwakarma**
 
-- GitHub: github.com/your-username
-- LinkedIn: linkedin.com/in/your-profile
+- GitHub: https://github.com/Vishwa0611
+- LinkedIn: https://www.linkedin.com/in/ayush-vishwakarma06/
 
-Fresher targeting Data Analyst / Business Analyst / BI Analyst roles.
 
-If you use this for your portfolio, a star would be nice! ⭐
